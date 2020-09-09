@@ -39,6 +39,10 @@ Some Things about me:-
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
+#### Other
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=F05032)
+
 Also I wanna learn about 
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
