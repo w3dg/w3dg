@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Debopam Gupta</h1>
 <h3 align="center">A passionate developer and a student</h3>
+<h4 align="center">https://dgdev.vercel.app</h4>
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently juggling between **Java, JavaScript**, **Go** and a bit of **Python**
 
-- 💬 Ask me about **Vanilla JS**
+- 💬 Ask me about **JS or Web Stuff** ( most comfortable )
 
-- 📫 How to reach me **Discord most preferably maybe NotDG04#6710**
+- 📫 How to reach me **Discord most preferably maybe [NotDG04#6710](https://discord.com/users/613575716201824266)**
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me: https://dgdev.vercel.app</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://dev.to/debopamgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="debopamgupta" height="30" width="40" /></a>
 <a href="https://twitter.com/debopamgupta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debopamgupta04" height="30" width="40" /></a>
