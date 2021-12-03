@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/debopamgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="debopamgupta" height="30" width="40" /></a>
 <a href="https://twitter.com/debopamgupta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debopamgupta04" height="30" width="40" /></a>
-<a href="https://instagram.com/its_not_dg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_not_dg" height="30" width="40" /></a>
+<a href="https://instagram.com/its_not_dg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_not_dg" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCrXTbv7MSiHSt1b8eWjaxAA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debopam gupta" height="30" width="40" /></a>
 <a href="https://discord.com/users/613575716201824266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ghhuh" height="30" width="40" /></a></p>
 
