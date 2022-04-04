@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JS or Web Stuff** ( most comfortable )
 
-- 📫 How to reach me **Discord most preferably maybe [NotDG04#6710](https://discord.com/users/613575716201824266)**
+- 📫 How to reach me **Discord most preferably maybe [w3dg#6710](https://discord.com/users/613575716201824266)**
 
 - ⚡ Fun fact **I think I am funny**
 
