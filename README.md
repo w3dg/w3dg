@@ -1,4 +1,4 @@
-<div style="display:grid;place-items:center">
+<!-- <div style="display:grid;place-items:center">
 
 <h1 align="center">Hi 👋, I'm Debopam Gupta</h1>
 <h3 align="center">A passionate developer and a student</h3>
@@ -22,10 +22,69 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,codepen,deno,discord,bots,docker,electron,express,git,github,gitlab,githubactions,go,java,jest,linux,md,mongodb,nodejs,sass,stackoverflow,vercel,vite,vscode" />
+ -->
+
 <!-- ![Debopam Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=debopamgupta&show_icons=true) -->
 
-<img align="center" src="./github-metrics.svg" alt="Metrics" >
+<!-- <img align="center" src="./github-metrics.svg" alt="Metrics" >
 </div>
+ -->
+<!-- [![@w3dg's Holopin board](https://holopin.io/api/user/board?user=w3dg)](https://holopin.io/@w3dg) -->
+
+
+
+# 👋 Hi there, I'm Debopam Gupta
+
+I'm a passionate software developer and computer science student from Kolkata, India. I enjoy building tools, automating workflows, and exploring the intersections of code and creativity.
+
+🌐 **Portfolio:** [dgdev.vercel.app](https://dgdev.vercel.app)
+
+<!-- ---
+
+## 🚀 Recent Projects & Highlights
+
+### 📝 Supercharged Notes
+A TypeScript-powered note-taking app with Clerk authentication and PostgreSQL integration.
+- **Features:** Secure login, Docker support, database schema setup
+- **Repo:** [supercharged-notes](https://github.com/w3dg/supercharged-notes)
+
+### 🛠️ Dotfiles & System Setup
+Comprehensive dotfiles and setup guides for configuring development environments.
+- **Repos:**
+  - [dotfiles](https://github.com/w3dg/dotfiles)
+  - [new-setup-dotfiles](https://github.com/w3dg/new-setup-dotfiles) -->
 
 ---
-<!-- [![@w3dg's Holopin board](https://holopin.io/api/user/board?user=w3dg)](https://holopin.io/@w3dg) -->
+
+## 🧰 Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=gnu-bash)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** [w3dg@duck.com](mailto:w3dg@duck.com)
+- **Discord:** `w3dg#6710`
+- **Twitter:** [@its_not_dg](https://twitter.com/its_not_dg)
+- **LinkedIn:** [debopamgupta](https://www.linkedin.com/in/debopamgupta)
+- **Instagram:** [@its_not_dg](https://www.instagram.com/its_not_dg)
+
+Feel free to reach out for collaborations, discussions, or just a friendly chat!
+
+<!-- ## 🏆 GitHub Stats
+
+![w3dg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=w3dg&show_icons=true&theme=radical)
+ -->
+---
+
+Thanks for stopping by! 🚀
+
