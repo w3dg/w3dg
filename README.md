@@ -37,7 +37,7 @@
 
 I'm a passionate software developer and computer science student from Kolkata, India. I enjoy building tools, automating workflows, and exploring the intersections of code and creativity.
 
-🌐 **Portfolio:** [dgdev.vercel.app](https://dgdev.vercel.app)
+🌐 **Portfolio:** [dgdev.vercel.app](https://dgdev.vercel.app) | 📜 **Blog:** [dgdev.vercel.app/blog](https://dgdev.vercel.app/blog)
 
 <!-- ---
 
