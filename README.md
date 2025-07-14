@@ -13,7 +13,7 @@ JavaScript, TypeScript, Go, Python, React, Next.js, Shell, PostgreSQL, Docker
 - **Twitter:** [@its_not_dg](https://twitter.com/its_not_dg)
 - **LinkedIn:** [debopamgupta](https://www.linkedin.com/in/debopamgupta)
 - **Instagram:** [@its_not_dg](https://www.instagram.com/its_not_dg)
-- **Mastodon:** <a rel="me" href="https://mastodon.social/@w3dg">@w3dg@mastodon.social</a>
+- **Mastodon:** [@w3dg@mastodon.social](https://mastodon.social/@w3dg)
 - **Mastodon:** [@w3dg@bsky.social](https://bsky.app/profile/w3dg.bsky.social)
 
 Feel free to reach out for collaborations or discussions.
