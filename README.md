@@ -1,6 +1,18 @@
 I'm a software developer and computer science student from Kolkata, India. I focus on building tools, automating workflows, and exploring code and creativity.
 
-Portfolio: dgdev.vercel.app Blog: dgdev.vercel.app/blog
+- Portfolio: [https://dgdev.me](https://dgdev.me)
+- Blog: [https://dgdev.me/blog](https://dgdev.me/blog)
+
+<details>
+  <summary><em>Links don't work?</em></summary>
+  It is totally possible that the domain has expired on me! Check the actual deployments here:<br/>
+  <ul>
+    <li>Portfolio: <a href="https://dgdev.vercel.app">https://dgdev.vercel.app</a></li>
+    <li>Blog: <a href="https://dgdev.vercel.app/blog">https://dgdev.vercel.app/blog</a></li>
+  </ul>
+</details>
+
+I also have a [public wiki](https://wiki.w3dg.workers.dev) where I share technical notes or anecdotes for your learnings and my references.
 
 ### Languages & Tools
 
