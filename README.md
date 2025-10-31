@@ -12,7 +12,7 @@ I'm a software developer and computer science student from Kolkata, India. I foc
   </ul>
 </details>
 
-I also have a [public wiki](https://wiki.w3dg.workers.dev) where I share technical notes or anecdotes for your learnings and my references.
+I also have a [public wiki](https://wiki.dgdev.me) where I share technical notes or anecdotes for your learnings and my references.
 
 ### Languages & Tools
 
